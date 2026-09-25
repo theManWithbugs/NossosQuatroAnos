@@ -6,7 +6,7 @@
   --wine: #6d2734;
   --wine-deep: #4a1620;
   --wine-soft: #a2646f;
-  --gold: #b3894f;
+  --gold: #9e6c27;
   --gold-soft: #d8bd93;
   --line: rgba(109, 39, 52, .18);
 }
@@ -1300,9 +1300,9 @@ h3 {
     position: relative;
     color: #fff5ed;
 
-    text-shadow:
-        0 0 12px rgba(215, 107, 145, .35),
-        0 0 35px rgba(215, 107, 145, .16);
+    /* text-shadow:
+        0 0 12px rgba(246, 135, 174, 0.35),
+        0 0 35px rgba(233, 122, 161, 0.16); */
 }
 
 h1 {
