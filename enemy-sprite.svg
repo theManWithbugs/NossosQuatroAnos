@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="64" viewBox="0 0 256 64">
+  <defs>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <g transform="translate(0 0)">
+      <path fill="#8f5363" stroke="#b8797e" d="M21 26 7 18l6 13-8 7 17-3M43 26l14-8-6 13 8 7-17-3"/>
+      <path fill="#54283d" stroke="#b8797e" d="M32 12c10 0 17 10 15 25-1 12-7 17-15 17s-14-5-15-17c-2-15 5-25 15-25Z"/>
+      <path fill="#a2646f" stroke="#b8797e" d="m21 15-5-12 12 8M43 15l5-12-12 8"/>
+      <path fill="#e4bd7e" stroke="none" d="M22 28h7v4h-7zM35 28h7v4h-7z"/>
+      <path stroke="#c69a5c" d="m23 42 5 3 4-3 4 3 5-3"/>
+    </g>
+    <g transform="translate(64 0)">
+      <path fill="#8f5363" stroke="#b8797e" d="M21 25 6 14l8 16-9 8 18-4M43 25l15-11-8 16 9 8-18-4"/>
+      <path fill="#54283d" stroke="#b8797e" d="M32 11c10 0 17 11 15 26-1 12-7 17-15 17s-14-5-15-17c-2-15 5-26 15-26Z"/>
+      <path fill="#a2646f" stroke="#b8797e" d="m21 14-7-12 14 9M43 14l7-12-14 9"/>
+      <path fill="#e4bd7e" stroke="none" d="M22 28h7v4h-7zM35 28h7v4h-7z"/>
+      <path stroke="#c69a5c" d="m23 42 5 3 4-3 4 3 5-3"/>
+    </g>
+    <g transform="translate(128 0)">
+      <path fill="#8f5363" stroke="#b8797e" d="M21 27 8 20l5 12-8 7 17-3M43 27l13-7-5 12 8 7-17-3"/>
+      <path fill="#54283d" stroke="#b8797e" d="M32 13c10 0 17 9 15 24-1 12-7 17-15 17s-14-5-15-17c-2-15 5-24 15-24Z"/>
+      <path fill="#a2646f" stroke="#b8797e" d="m21 16-4-11 11 7M43 16l4-11-11 7"/>
+      <path fill="#e4bd7e" stroke="none" d="M22 28h7v4h-7zM35 28h7v4h-7z"/>
+      <path stroke="#c69a5c" d="m23 42 5 3 4-3 4 3 5-3"/>
+    </g>
+    <g transform="translate(192 0)">
+      <path fill="#8f5363" stroke="#b8797e" d="M21 25 5 17l9 14-8 8 18-4M43 25l16-8-9 14 8 8-18-4"/>
+      <path fill="#54283d" stroke="#b8797e" d="M32 11c10 0 17 11 15 26-1 12-7 17-15 17s-14-5-15-17c-2-15 5-26 15-26Z"/>
+      <path fill="#a2646f" stroke="#b8797e" d="m21 14-6-12 13 9M43 14l6-12-13 9"/>
+      <path fill="#e4bd7e" stroke="none" d="M22 28h7v4h-7zM35 28h7v4h-7z"/>
+      <path stroke="#c69a5c" d="m23 42 5 3 4-3 4 3 5-3"/>
+    </g>
+  </g>
+</svg>
